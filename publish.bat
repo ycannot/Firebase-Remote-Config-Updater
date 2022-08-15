@@ -1,0 +1,1 @@
+cd %cd% && node index.js publish

@@ -1,0 +1,1 @@
+cd %cd% && npm install firebase-admin && npm install xlsx &&  npm install --save googleapis && node index.js fetch

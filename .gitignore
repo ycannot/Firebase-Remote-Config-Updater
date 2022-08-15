@@ -1,0 +1,8 @@
+node_modules/
+credentials/
+localizable/
+tables/
+cache.json
+config.json
+*.DS_Store
+package-lock.json
